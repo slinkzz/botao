@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@200&display=swap');
+
+
+body{
+    text-align: center;
+    margin-top: 30%;
+}
+
+
+
+
+.botao1 {
+    background-color: #4CAF50;
+    border: none;
+    border: solid black;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.botao2 {
+    background-color: #4CAF50;
+    border: solid black;
+    border-radius: 10px;
+    padding: 18px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    color: azure;
+}
+
+.botao2:hover {
+    background-color: #3e8e41;
+  }
+  
+  .botao2:active {
+    background-color: #3e8e41;
+    box-shadow: 0 2px #666;
+    transform: translateY(1px);
+  }
+
+  .botao1:hover {
+    background-color: #3e8e41;
+  }
+  
+  .botao1:active {
+    background-color: #3e8e41;
+    box-shadow: 0 2px #666;
+    transform: translateY(1px);
+  }
+  
+  
